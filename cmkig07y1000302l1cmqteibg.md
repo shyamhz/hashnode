@@ -5,7 +5,7 @@ datePublished: Sat Jan 17 2026 15:08:52 GMT+0000 (Coordinated Universal Time)
 cuid: cmkig07y1000302l1cmqteibg
 slug: inside-git-and-how-it-works
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1768662385230/c8885d9d-6735-45b5-bfac-a822f44703ae.png
-tags: git, git-objects, git-internals, how-git-works-internally, git-objects-blob-tree-commit
+tags: git, git-objects, git-internals, chaiaurcode, chaiaurcode-hiteshchoudhary-piyushgarg-genaicohort-genai-llm-personaprompting-geminiai-reactjs-nextjs-python-aichatbot-hashnode-promptengineering-vercel-hindienglishblog-devjourney, how-git-works-internally, git-objects-blob-tree-commit, chaiau
 
 ---
 
