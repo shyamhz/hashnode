@@ -4,7 +4,7 @@ datePublished: Tue Dec 30 2025 13:27:51 GMT+0000 (Coordinated Universal Time)
 cuid: cmjsmgzix000302jp1ihv9qyh
 slug: version-control-system
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767101045265/86342dd9-33a3-4ad6-a945-9f27dd2e23bb.png
-tags: version-control, git, source-control, version-control-systems, source-code-management
+tags: version-control, git, source-control, version-control-systems, source-code-management, chaiaurcode, chaicohort, chai-code, webdevcohort2026
 
 ---
 
