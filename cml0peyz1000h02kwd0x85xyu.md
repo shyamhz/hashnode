@@ -3,7 +3,7 @@ title: "Understanding DNS: How Domain Name System Resolution Works"
 seoTitle: "Understanding DNS: How Domain Name System Resolution Works"
 datePublished: Fri Jan 30 2026 09:52:08 GMT+0000 (Coordinated Universal Time)
 cuid: cml0peyz1000h02kwd0x85xyu
-slug: understanding-dns-how-domain-name-system-resolution-works
+slug: domain-name-system-resolution
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1769766558374/a26c70a6-e006-4cc7-b323-e6c1c6d3e189.png
 tags: dns-resolver, chaiaurcode, dns-resolution, chaicohort, chaicode-webdev-cohort-2026
 
