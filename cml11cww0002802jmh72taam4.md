@@ -68,4 +68,16 @@ Div tag is used to group multuple element together inside a single structure. Th
 
 ### Paired tags and self closing tags
 
-You may have noticed that some tags like body, h1, p, div are paired they have a opening and closing pairs like &lt;h1&gt; and &lt;/h1&gt; , essentially same tagname repeated with a `/` . But some tags like `hr` `br` are self closing , simply they are written once and in the first `<` and `>` they are terminated with an `/` .
+You may have noticed that some tags like body, h1, p, div are paired they have a opening and closing pairs like &lt;h1&gt; and &lt;/h1&gt; , essentially same tag name repeated with a `/` . But some tags like `hr` `br` are self closing , simply they are written once and in the first `<` and `>` they are terminated with an `/` .
+
+## Block level and Inline elements
+
+The element’s like `div` and `p` they contain multiple blocks or elements , like paragraph tag can contain multiple chunks or text or div elements can contains multiple other elements including div elements. So elements made of them are known as block level elements and they take all the available space.
+
+And the other elements like `a` tag elements take only the space needed. These types of elements are knows as Inline elements.
+
+## Conclusion
+
+This is not nearly close to all the available tags and elements available in HTML and are just a small subset. You may go ahead and read more about all the tags available, although that is not recommended. You may refer to [MDN docs](https://developer.mozilla.org/en-US/) or [w3schools](https://www.w3schools.com/) for reference.  
+
+Hopefully now you understand basics of HTML and the tags and elements, difference between them, what are Inline and Block elements.
