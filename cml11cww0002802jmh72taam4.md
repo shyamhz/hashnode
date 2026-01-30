@@ -56,12 +56,16 @@ Div tag is used to group multuple element together inside a single structure. Th
 
 ### hr tag
 
-`hr` tag also known as horizontal rule tag and used to create a horizontal line across the HTML body,
+`hr` tag also known as **horizontal rule** tag and used to create a horizontal line across the HTML body,
 
 %[https://codepen.io/shyamendrahazracodes/pen/MYeQqPx] 
 
 ### br tag
 
-`br` tag is know as line break tag this tag is used to put line breaks. This tag can be used to put breaks between different elements or different contents of an element.
+`br` tag is know as **line break** tag this tag is used to put line breaks. This tag can be used to put breaks between different elements or different contents of an element.
 
-%[https://codepen.io/shyamendrahazracodes/pen/qENxMLZ]
+%[https://codepen.io/shyamendrahazracodes/pen/qENxMLZ] 
+
+### Paired tags and self closing tags
+
+You may have noticed that some tags like body, h1, p, div are paired they have a opening and closing pairs like &lt;h1&gt; and &lt;/h1&gt; , essentially same tagname repeated with a `/` . But some tags like `hr` `br` are self closing , simply they are written once and in the first `<` and `>` they are terminated with an `/` .
