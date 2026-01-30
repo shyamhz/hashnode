@@ -3,6 +3,7 @@ title: "TCP vs UDP: When to Use What, and How TCP Relates to HTTP"
 datePublished: Fri Jan 30 2026 14:38:10 GMT+0000 (Coordinated Universal Time)
 cuid: cml0zmtps000i02jr2xvt8vy1
 slug: tcp-vs-udp
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1769784096191/2d8090c8-d3f6-4cf3-903e-a3318cf17fe9.png
 tags: tcp, udp, tcp-vs-udp, chaiaurcode, chaicode, chaicohort, chaicode-webdev-cohort-2026, tcp-and-http
 
 ---
