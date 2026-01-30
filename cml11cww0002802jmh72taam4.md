@@ -50,7 +50,7 @@ Anchor tag or `a` is used to hyperlink or simply connect our HTML document to ot
 
 ### div tag
 
-Div tag is used to group multuple element together inside a single structure. This is used to show content in different segments and parts inside you HTML document.
+Div tag is used to group multiple element together inside a single structure. This is used to show content in different segments and parts inside you HTML document.
 
 %[https://codepen.io/shyamendrahazracodes/pen/LEZQJQp] 
 
