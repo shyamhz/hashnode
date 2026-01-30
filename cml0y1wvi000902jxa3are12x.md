@@ -3,6 +3,7 @@ title: "Understanding cURL: A Guide to Its Uses and Functions"
 datePublished: Fri Jan 30 2026 13:53:55 GMT+0000 (Coordinated Universal Time)
 cuid: cml0y1wvi000902jxa3are12x
 slug: curl
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1769781450114/9a38e7bf-a225-428f-9c1e-2875046f3b63.jpeg
 tags: curl, http-requests, chaiaurcode, chaicode, chaicohort, chaicode-webdev-cohort-2026, curl-for-beginner
 
 ---
